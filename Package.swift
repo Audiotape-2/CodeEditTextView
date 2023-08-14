@@ -18,7 +18,7 @@ let package = Package(
             exact: "0.8.7"
         ),
         .package(
-            url: "https://github.com/CodeEditApp/CodeEditLanguages.git",
+            url: "https://github.com/Audiotape-2/CodeEditLanguages.git",
             exact: "0.1.17"
         ),
         .package(
